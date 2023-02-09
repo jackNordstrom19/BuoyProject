@@ -1,0 +1,24 @@
+Problem:
+Researchers in Melbourne, Florida, where 25% of the world's sea turtle
+population lives, lack key information necessary to understand on and
+offshore habitats. The sea turtle population is essential to conservation
+efforts.
+
+Opportunity:
+Through partnerships with Brevard Zoo, Embry-Riddle Aeronautical University,
+James Madison University, and other universities, volunteers, faculty, and 
+students will prototype sensing and data collection technology that will
+fill key gaps in available data.
+
+Goal:
+Provide researchers with sensor and data collection technology that affords
+them full insight into the sea turtle life cycle without disturbing their
+habitats. This will be vital to understanding population risks and influencing
+conservation policy.
+
+Program:
+This program's purpose is to communicate commands and data between a buoy and 
+drone. A buoy is able to measure its latitude and longitude, the temperature of
+the surrounding water, and the radio frequency identification number of the tag
+of a passing turtle. Using a mySQL database, the buoy is able to store, transmit,
+and receive any of this data according to how it is commanded by an external client.

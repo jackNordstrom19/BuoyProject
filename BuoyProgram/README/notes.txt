@@ -1,0 +1,25 @@
+leonardo_control
+    - Temperature is only read when RFID is read
+    - Temperature is only read in Fahrenheit
+    - Demo runs for 10 seconds
+    - Doesn't have a "nothing to report" case only a "invalid input" case
+    - Ports will change on ODROID
+    - Temp shows us wrong sometimes?
+
+gps_control
+    - How many decimal places for latitude and longitude are needed, currently 6
+    - Port will change on ODROID
+    
+Physical 
+    - Leonardo wires are a mess
+    - GPS antenna is small
+
+README
+    - Write products, requirements, sources, and updates text files
+
+
+
+
+
+
+    

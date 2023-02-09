@@ -1,0 +1,11 @@
+Institutions:
+Embry-Riddle Aeronautical University Engineering Department | Daytona, Florida
+James Madison University Engineering Department | Harrisonburg, Virginia
+
+Professors:
+Dr. Patrack Currier | ERAU
+Dr. Jason Forsyth | JMU
+Dr. Robert Nagel | JMU
+
+Author:
+Jack Nordstrom | 571-888-1400 | nordstje@dukes.jmu.edu
